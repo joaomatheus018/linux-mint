@@ -1,3 +1,11 @@
+| Participantes |
+| :--- |
+| João Matheus |
+| Murilo |
+
+---
+---
+
 ## Passo 1 - Aceder ao Download: Clicar no botão principal de download no site oficial.
 <img width="1906" height="936" alt="image" src="https://github.com/user-attachments/assets/434ede84-0fe5-408d-997b-2def2a46aeea" />
 
