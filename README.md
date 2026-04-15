@@ -1,3 +1,7 @@
+# Linux Mint
+
+---
+
 | Participantes |
 | :--- |
 | João Matheus |
@@ -55,7 +59,7 @@
 ---
 
 ## Passo 9 - Sumário Final: Rever o resumo de todas as definições escolhidas.
-## Concluir Configuração: Clicar em "Finalizar" para criar a máquina virtual.
+### Concluir Configuração: Clicar em "Finalizar" para criar a máquina virtual.
 <img width="782" height="387" alt="image" src="https://github.com/user-attachments/assets/87abbfad-e22a-44d1-a3c9-b26ebbdbf9da" />
 
 ---
